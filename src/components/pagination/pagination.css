@@ -1,0 +1,10 @@
+.pageNumber{
+    margin: 5px;
+    padding: 5px 15px;
+    text-decoration: none;
+    background-color: rgb(11, 106, 75);
+    color:white;
+    font-weight: 700;
+    font-size: 1rem;
+    text-align: center;
+}
